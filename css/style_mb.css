@@ -1,0 +1,7 @@
+/*모바일 767까지*/
+
+#gnb{display:none;}
+
+.language-select span{
+    display: none;
+}
